@@ -1,0 +1,23 @@
+===========================================
+       APLICACION RAPIDENCOMIENDAS
+===========================================
+
+
+1.- Creación de una red social para el envío / recepción de encomiendas
+2.- Usuario se suscribe con el ingreso de:
+	Nombre:
+	Email:
+	Password:
+
+3.- Usuario ingresa itinerario: 
+	Origen
+	Destino
+	Fecha de Salida
+	Fecha de Retorno
+
+4.- Otro usuario con Encomienda puede contactarlo para enviar encomienda.
+	Segundo Usuario envía petición
+	Primer Usuario Acepta /Rechaza petición
+	Si Primer Usuario acept peticion --> recibe encomienda
+	Primer Usuario entrega encomienda en el destino.
+	
