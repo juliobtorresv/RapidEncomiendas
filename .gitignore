@@ -32,4 +32,4 @@ proguard/
 captures/
 
 # Archivos temporales del proyecto que deben ser ignorados
-.idea/
+# .idea/
