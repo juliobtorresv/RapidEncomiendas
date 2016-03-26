@@ -2,6 +2,9 @@
        APLICACION RAPIDENCOMIENDAS
 ===========================================
 
+FECHA: 24/03/2016
+POR: Julio Torres
+-------------------------------------------
 
 1.- Creación de una red social para el envío / recepción de encomiendas
 2.- Usuario se suscribe con el ingreso de:
