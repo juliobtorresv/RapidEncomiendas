@@ -30,3 +30,6 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# Archivos temporales del proyecto que deben ser ignorados
+# .idea/
